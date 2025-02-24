@@ -5,7 +5,7 @@ Repo for this random top 10 coding questions my friend sent me, I'll try to do i
 
 01. Fibonacci. [x]
 02. Prime number. [ ]
-03. Palindrome. [ ]
+03. Palindrome. [x]
 04. Factorial. [ ]
 05. Armstrong. [x]
 06. Random number. [x]
