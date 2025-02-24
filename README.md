@@ -8,7 +8,7 @@ Repo for this random top 10 coding questions my friend sent me, I'll try to do i
 3. Palindrome. [ ]
 4. Factorial. [ ]
 5. Armstrong. [x]
-6. Random number. [ ]
+6. Random number. [x]
 7. Printing pattern. [ ]
 8. ASCII value. [ ]
 9. Comparing two objects. [ ]
