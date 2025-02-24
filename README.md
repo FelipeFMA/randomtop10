@@ -3,13 +3,13 @@ Repo for this random top 10 coding questions my friend sent me, I'll try to do i
 
 ![image](https://github.com/user-attachments/assets/5ecd5a3c-ba13-4b08-99b1-135601f9246b)
 
-1. Fibonacci. [x]
-2. Prime number. [ ]
-3. Palindrome. [ ]
-4. Factorial. [ ]
-5. Armstrong. [x]
-6. Random number. [x]
-7. Printing pattern. [ ]
-8. ASCII value. [ ]
-9. Comparing two objects. [ ]
+01. Fibonacci. [x]
+02. Prime number. [ ]
+03. Palindrome. [ ]
+04. Factorial. [ ]
+05. Armstrong. [x]
+06. Random number. [x]
+07. Printing pattern. [ ]
+08. ASCII value. [ ]
+09. Comparing two objects. [ ]
 10. Create object. [ ]
