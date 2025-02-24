@@ -6,7 +6,7 @@ Repo for this random top 10 coding questions my friend sent me, I'll try to do i
 01. Fibonacci. [x]
 02. Prime number. [ ]
 03. Palindrome. [x]
-04. Factorial. [ ]
+04. Factorial. [x]
 05. Armstrong. [x]
 06. Random number. [x]
 07. Printing pattern. [ ]
