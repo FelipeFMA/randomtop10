@@ -6,8 +6,8 @@ def is_armstrong(number):
     return sum_of_powers == number
 
 # Output pro usuário
-num = int(input("Digite um número: "))
+num = int(input("Type a number: "))
 if is_armstrong(num):
-    print(f"{num} é um número de Armstrong!")
+    print(f"{num} It is an armstrong number!")
 else:
-    print(f"{num} não é um número de Armstrong.")
+    print(f"{num} It's not an armstrong number.")

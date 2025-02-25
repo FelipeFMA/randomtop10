@@ -1,6 +1,6 @@
 import math
 
-numero = int(input("Escolha um número inteiro: "))
+numero = int(input("Choose an intenger: "))
 
 resultado = math.factorial(numero)
 

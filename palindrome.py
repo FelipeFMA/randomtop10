@@ -1,11 +1,11 @@
 # pede pro usuário digitar algo
-texto = input("Digite algo: ")
+texto = input("Type something: ")
 
 # inverte o texto do usuário
 otxet = texto[::-1]
 
 # se o texto foi igual normal e ao contrário falar que é um palindromo, caso contrário falar que não é 
 if texto == otxet:
-    print("É um palindromo!")
+    print("It is a palindrome!!!\n")
 else:
-    print("Não é um palindromo")
+    print("It's not a palindrome.\n")

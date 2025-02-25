@@ -4,5 +4,5 @@ def fibonacci(n):
         fib_sequence.append(fib_sequence[-1] + fib_sequence[-2])
     return fib_sequence
 
-n = int(input("Quantidade de números: "))
+n = int(input("Amount of numbers: "))
 print(fibonacci(n))
