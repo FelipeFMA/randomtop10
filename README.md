@@ -10,6 +10,6 @@ Repo for this random top 10 coding questions my friend sent me, I'll try to do i
 05. Armstrong. [x]
 06. Random number. [x]
 07. Printing pattern. [x]
-08. ASCII value. [ ]
+08. ASCII value. [x]
 09. Comparing two objects. [ ]
 10. Create object. [ ]
